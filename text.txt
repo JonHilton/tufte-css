@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang=“en”>
+	<head>
+		<meta charset=“utf-8”/>
+		<title>Table of Contents</title>
+		<link rel=“stylesheet” href=“tufte.css”/>
+		<meta name=“viewport” content=“width=device-width, initial-scale=1”
+	</head>
+
+<body>
+	<article>
+		<h1 id=“Title”>Table of Contents</h1>
+		<p class=“subtitle”>Dr Jon Hilton <a href=“www.twitter.com/jonjhilton”>@JonJHilton</a></p>
+	<section>
+		<h2>Emergency presentations</h2>
+			<h3><p>Cardiorespiratory arrest<p>Shocked patient<p>Unconscious patient<p>Anaphylaxis</h3>
+	</section>
+	<section>
+		<h2>Allergy</h2>
+			<h3>Acute allergic symptoms<p>Chronic allergic symptoms<p>Anaphylaxis<p>Asthma<p>Nose and sinus symptoms<p>Urticaria</h3>
+	</section>
+	</article>
+</body>
+</html>
